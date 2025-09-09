@@ -40,13 +40,13 @@ while True:
             raw_key = message.split(":")[1]
             key = normalize_key(raw_key)
             keyboard.press(key)
-            print(f"Pressed key: {key}")
+            #print(f"Pressed key: {key}")
 
         elif message.startswith("KeyUp:"):
             raw_key = message.split(":")[1]
             key = normalize_key(raw_key)
             keyboard.release(key)
-            print(f"Released key: {key}")
+            #print(f"Released key: {key}")
 
     except Exception as e:
         print(f"Error: {e}")
