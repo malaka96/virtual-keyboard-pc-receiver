@@ -13,6 +13,11 @@ It was created as a fun **side project** to test gameplay controls, especially f
 
 ---
 
+## 🔗 Links
+- Download link: https://mega.nz/folder/d2VnDLiC#5LHlHCpfVaxs1_EYyyJuyQ
+
+---
+
 ## ⚙️ Setup Instructions
 
 ### 1. Install Applications
